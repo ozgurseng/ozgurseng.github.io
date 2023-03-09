@@ -1,4 +1,4 @@
-# ozgurseng.github.io
+# [ozgurseng.github.io](https://ozgurseng.github.io)
 
 This page has been specially prepared to make life easier for software students.
 You can do your homework and check out the work.
